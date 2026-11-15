@@ -1,0 +1,98 @@
+{
+  "git_commit": "13a74d9",
+  "seed": 266,
+  "scenarios": [
+    {
+      "id": "S01",
+      "category": "caption",
+      "request": "Describe this image in one sentence.",
+      "rubric": "A concise visual caption is returned."
+    },
+    {
+      "id": "S02",
+      "category": "caption",
+      "request": "Give a detailed caption including the main subject and colors.",
+      "rubric": "The caption identifies the subject and visible colors."
+    },
+    {
+      "id": "S03",
+      "category": "question",
+      "request": "What is the main object in the image?",
+      "rubric": "The answer identifies the main object using image evidence."
+    },
+    {
+      "id": "S04",
+      "category": "style",
+      "request": "Transform the image into a watercolor painting.",
+      "rubric": "The output preserves the subject with watercolor styling."
+    },
+    {
+      "id": "S05",
+      "category": "style",
+      "request": "Convert the image into colorful pixel art.",
+      "rubric": "The output preserves the subject with pixel-art styling."
+    },
+    {
+      "id": "S06",
+      "category": "style",
+      "request": "Convert the image into a clean anime illustration.",
+      "rubric": "The output preserves the subject with anime styling."
+    },
+    {
+      "id": "S07",
+      "category": "enhancement",
+      "request": "Enhance the lighting and make the image clearer.",
+      "rubric": "The subject remains recognizable and appears enhanced."
+    },
+    {
+      "id": "S08",
+      "category": "enhancement",
+      "request": "Improve the colors and reduce visual noise.",
+      "rubric": "The output is clearer while preserving the subject."
+    },
+    {
+      "id": "S09",
+      "category": "enhancement",
+      "request": "Create a cleaner, sharper version of this image.",
+      "rubric": "The output is a coherent enhancement."
+    },
+    {
+      "id": "S10",
+      "category": "domain",
+      "request": "Turn this subject into a Pok\u00e9mon-style character.",
+      "rubric": "The output uses the Part 2 Pok\u00e9mon domain style."
+    },
+    {
+      "id": "S11",
+      "category": "domain",
+      "request": "Create a Pok\u00e9mon-style illustration based on this image.",
+      "rubric": "The output uses the Part 2 adapter."
+    },
+    {
+      "id": "S12",
+      "category": "domain",
+      "request": "Reimagine this image as colorful Pok\u00e9mon artwork.",
+      "rubric": "The output follows the Pok\u00e9mon-style request."
+    },
+    {
+      "id": "S13",
+      "category": "ambiguous",
+      "request": "Make it better.",
+      "rubric": "The system asks for clarification or gives a clear safe response."
+    },
+    {
+      "id": "S14",
+      "category": "broken_input",
+      "request": "Describe this broken image.",
+      "rubric": "The system gives a clear input-error message without crashing.",
+      "input_image": "/content/drive/MyDrive/data266_part3/outputs/scenario_broken_input.png"
+    },
+    {
+      "id": "S15",
+      "category": "broken_input",
+      "request": "Enhance this empty file.",
+      "rubric": "The system gives a clear input-error message without crashing.",
+      "input_image": "/content/drive/MyDrive/data266_part3/outputs/scenario_empty_input.png"
+    }
+  ]
+}

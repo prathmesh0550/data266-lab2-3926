@@ -1,0 +1,16 @@
+system,scenario_id,category,request,status,route,output_image,revisions,task_pass,seconds,critique_decision
+final,S01,caption,Describe this image in one sentence.,vision_complete,caption,,0,True,6.000859847999891,not_run
+final,S02,caption,Give a detailed caption including the main subject and colors.,vision_complete,caption,,0,True,6.274248043000171,not_run
+final,S03,question,What is the main object in the image?,vision_complete,visual_question,,0,True,6.434819738999977,not_run
+final,S04,style,Transform the image into a watercolor painting.,accepted,style_change,/content/drive/MyDrive/data266_part3/outputs/evaluation/final_S04_revision_0.png,0,True,18.665887729000133,accept
+final,S05,style,Convert the image into colorful pixel art.,accepted,style_change,/content/drive/MyDrive/data266_part3/outputs/evaluation/final_S05_revision_0.png,0,True,19.470755889999964,accept
+final,S06,style,Convert the image into a clean anime illustration.,accepted,style_change,/content/drive/MyDrive/data266_part3/outputs/evaluation/final_S06_revision_0.png,0,True,19.71169965600029,accept
+final,S07,enhancement,Enhance the lighting and make the image clearer.,accepted,enhancement,/content/drive/MyDrive/data266_part3/outputs/evaluation/final_S07_revision_0.png,0,True,20.316616536999845,accept
+final,S08,enhancement,Improve the colors and reduce visual noise.,accepted,enhancement,/content/drive/MyDrive/data266_part3/outputs/evaluation/final_S08_revision_0.png,0,True,18.715772014999857,accept
+final,S09,enhancement,"Create a cleaner, sharper version of this image.",refused,unsupported,,0,False,0.003694249999625754,not_run
+final,S10,domain,Turn this subject into a Pokémon-style character.,accepted,domain_generation,/content/drive/MyDrive/data266_part3/outputs/evaluation/final_S10_revision_0.png,0,True,20.74847653300003,accept
+final,S11,domain,Create a Pokémon-style illustration based on this image.,accepted,domain_generation,/content/drive/MyDrive/data266_part3/outputs/evaluation/final_S11_revision_0.png,0,True,20.7380631799997,accept
+final,S12,domain,Reimagine this image as colorful Pokémon artwork.,accepted,domain_generation,/content/drive/MyDrive/data266_part3/outputs/evaluation/final_S12_revision_0.png,0,True,19.30496640599995,accept
+final,S13,ambiguous,Make it better.,refused,unsupported,,0,True,0.0030566840000574302,not_run
+final,S14,broken_input,Describe this broken image.,error,caption,,0,True,0.005103751000206103,not_run
+final,S15,broken_input,Enhance this empty file.,error,enhancement,,0,True,0.004063944999870728,not_run

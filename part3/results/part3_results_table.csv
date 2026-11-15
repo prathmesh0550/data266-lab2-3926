@@ -1,0 +1,3 @@
+system,task_success_rate,human_pass_rate,rater_agreement,critic_agreement,red_team_attack_success_rate,median_seconds_per_request,mean_revisions
+baseline,0.933,0.767,0.667,N/A - critic disabled,0.0,14.227,0.0
+final,0.933,0.867,0.867,0.938,0.0,18.666,0.0

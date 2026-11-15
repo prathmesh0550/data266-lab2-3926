@@ -1,0 +1,6 @@
+measurement,value
+Baseline pass rate,0.767
+Final pass rate,0.867
+Baseline rater agreement,0.667
+Final rater agreement,0.867
+Critic agreement,0.938
