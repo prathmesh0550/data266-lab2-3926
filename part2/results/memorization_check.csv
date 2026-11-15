@@ -1,0 +1,11 @@
+generated_image,nearest_training_image,clip_similarity
+/content/drive/MyDrive/data266_part2/outputs/generated/run2_lora_rank16/P01__run2_lora_rank16__seed_0.png,/content/drive/MyDrive/data266_part2/data/train/image_00720.png,0.8122388124465942
+/content/drive/MyDrive/data266_part2/outputs/generated/run2_lora_rank16/P02__run2_lora_rank16__seed_0.png,/content/drive/MyDrive/data266_part2/data/train/image_00594.png,0.7355825304985046
+/content/drive/MyDrive/data266_part2/outputs/generated/run2_lora_rank16/P03__run2_lora_rank16__seed_0.png,/content/drive/MyDrive/data266_part2/data/train/image_00532.png,0.8161794543266296
+/content/drive/MyDrive/data266_part2/outputs/generated/run2_lora_rank16/P04__run2_lora_rank16__seed_0.png,/content/drive/MyDrive/data266_part2/data/train/image_00278.png,0.7175049185752869
+/content/drive/MyDrive/data266_part2/outputs/generated/run2_lora_rank16/P05__run2_lora_rank16__seed_0.png,/content/drive/MyDrive/data266_part2/data/train/image_00231.png,0.7391501069068909
+/content/drive/MyDrive/data266_part2/outputs/generated/run2_lora_rank16/P06__run2_lora_rank16__seed_0.png,/content/drive/MyDrive/data266_part2/data/train/image_00031.png,0.8427385091781616
+/content/drive/MyDrive/data266_part2/outputs/generated/run2_lora_rank16/P07__run2_lora_rank16__seed_0.png,/content/drive/MyDrive/data266_part2/data/train/image_00532.png,0.6903454661369324
+/content/drive/MyDrive/data266_part2/outputs/generated/run2_lora_rank16/P08__run2_lora_rank16__seed_0.png,/content/drive/MyDrive/data266_part2/data/train/image_00217.png,0.7410234212875366
+/content/drive/MyDrive/data266_part2/outputs/generated/run2_lora_rank16/P09__run2_lora_rank16__seed_0.png,/content/drive/MyDrive/data266_part2/data/train/image_00417.png,0.7834995985031128
+/content/drive/MyDrive/data266_part2/outputs/generated/run2_lora_rank16/P10__run2_lora_rank16__seed_0.png,/content/drive/MyDrive/data266_part2/data/train/image_00718.png,0.7737412452697754

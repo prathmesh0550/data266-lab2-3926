@@ -1,0 +1,12 @@
+{
+  "dataset": "reach-vb/pokemon-blip-captions",
+  "license": "CC BY-NC-SA 4.0",
+  "original_images": 833,
+  "corrupted_removed": 0,
+  "duplicates_removed": 0,
+  "clean_images": 833,
+  "training_images": 750,
+  "test_images": 83,
+  "split_seed": 266,
+  "resolution": "512x512"
+}

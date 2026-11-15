@@ -1,0 +1,21 @@
+prompt_id,category,prompt
+P01,in_domain,a very cute looking cartoon character with big eyes
+P02,in_domain,a cartoon elephant with a sad look on its face
+P03,in_domain,a red fish with a gold crown on its head
+P04,in_domain,a cartoon character with a pink and blue tail
+P05,in_domain,an image of a cartoon character flying through the air
+P06,in_domain,a blue and white cartoon character with a big smile
+P07,in_domain,a green turtle with a yellow flower on its head
+P08,in_domain,a drawing of a deer with antlers on it's head
+P09,in_domain,a drawing of a pink cartoon character
+P10,in_domain,a cartoon bird sitting on top of a white surface
+P11,out_of_domain,A realistic photograph of a golden retriever running through a snowy forest
+P12,out_of_domain,A watercolor painting of a Japanese mountain village at sunset
+P13,out_of_domain,A detailed portrait of an astronaut standing on the Moon
+P14,out_of_domain,A red sports car driving through a futuristic city
+P15,out_of_domain,A cozy cabin beside a lake surrounded by autumn trees
+P16,compositional,"Two Pokémon characters standing together, one red and one blue"
+P17,compositional,A small yellow Pokémon wearing a blue hat beside a red flower
+P18,compositional,"Two Pokémon characters battling in a forest, one surrounded by fire and one by ice"
+P19,compositional,A blue Pokémon flying above a red castle under a purple sky
+P20,compositional,Three Pokémon characters having a picnic beside a waterfall
