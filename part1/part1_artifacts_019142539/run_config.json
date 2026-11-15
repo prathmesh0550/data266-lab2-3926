@@ -1,0 +1,17 @@
+{
+  "sid": "019142539",
+  "sid4": 2539,
+  "seed": 2539,
+  "slice": 539,
+  "hp_id": 1,
+  "cls_a": 9,
+  "cls_b": 1,
+  "commit": "",
+  "gpu": "Tesla T4",
+  "question_count": 40,
+  "indexed_items": 238,
+  "median_seconds_per_question": 24.680705026499993,
+  "complete_runtime_minutes": 21.687544455833333,
+  "within_90_minutes": true,
+  "submission": "/kaggle/working/submission.csv"
+}

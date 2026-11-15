@@ -1,0 +1,7 @@
+measurement,value
+Median seconds per question,24.680705026499993
+Mean seconds per question,25.82266969515001
+Total question-processing seconds,1032.9067878060005
+Complete notebook runtime seconds,1301.25266735
+Complete notebook runtime minutes,21.687544455833333
+Within 90-minute requirement,True

@@ -1,0 +1,41 @@
+id,conversation_id,question_id,answer,figure_references,citations,status
+1,C001,Q001,"The global economic crisis around 2008 was sparked by a financial crisis originating in the United States, characterized by a collapse in stock prices and housing prices, leading to reduced consumer and firm spending, and a resulting decrease in output.",NONE,DOC1:p2,answered
+2,C002,Q002,"We should worry about unemployment rates going up because higher unemployment leads to more widespread and longer-lasting unemployment, causing financial and psychological suffering. Additionally, a higher unemployment rate is often associated with a lower participation rate, meaning fewer people are actively seeking work. For instance, in the U.S., the unemployment rate reached nearly 10% in 2010, the highest since the 1980s, and the mean duration of unemployment increased to 33 weeks in 2010 from 9 weeks in 2000-2007.",NONE,DOC1:p24,answered
+3,C003,Q003,"Economists measure economic growth without price changes by calculating real GDP. Real GDP reflects changes in quantities only, not prices.",NONE,"DOC1:p33,DOC1:p35",answered
+4,C004,Q004,The world economy declined by 3.5% in 2009.,NONE,DOC1:p5,answered
+5,C005,Q005,"After the 2008 crisis, U.S. unemployment increased to nearly 10%.",NONE,DOC1:p5,answered
+6,C006,Q006,China’s economy grew at roughly 10% annually from 1980 to 1999.,NONE,DOC1:p10,answered
+7,C007,Q007,"The 2008 crisis affected stock markets worldwide, not just in the U.S.",NONE,DOC1:p2,answered
+8,C008,Q008,No,NONE,"DOC1:p24,DOC1:p25",answered
+9,C009,Q009,No,NONE,DOC1:p27,answered
+10,C010,Q010,"Europe had high unemployment even before the crisis, with the Euro area's unemployment rate at 8.5% from 2000 to 2007, compared to the U.S.'s lower rate. After the crisis, unemployment rose to 10%, and despite forecasts of slow decrease, it remains high.",NONE,"DOC1:p7,DOC1:p12,DOC1:p3",answered
+11,C011,Q011,"China maintained high growth through the 2008 financial crisis due to a significant fiscal expansion, particularly a major increase in public investment.",NONE,DOC1:p11,answered
+12,C012,Q012,"Mortgage-backed securities contributed to the financial crisis by being bundled and repackaged into new securities, making their value hard to assess. This opacity transformed a housing price decline into a major financial crisis.",NONE,DOC1:p1,answered
+13,C013,Q013,"When housing prices fall, consumption decreases.",NONE,"DOC1:p1,DOC1:p2",answered
+14,C014,Q014,A recession is defined as a period where the economy experiences at least two consecutive quarters of negative GDP growth.,NONE,"DOC1:p22,DOC1:p35",answered
+15,C015,Q015,Emerging and developing economies grew faster than advanced economies.,NONE,"DOC2:p2,DOC1:p1",answered
+16,C016,Q016,8.5%,Figure A-2,"DOC2:p4,DOC1:p7",answered
+17,C017,Q017,10.1%,Figure A-3,"DOC2:p4,DOC2:p7,DOC1:p7",answered
+18,C018,Q018,The Euro area stock price index in March 2009 was 0.66.,Figure A-4,DOC2:p5,answered
+19,C019,Q019,1.06,Figure A-5,DOC2:p5,answered
+20,C020,Q020,There is no country with exactly the same unemployment rate in Figures A-6 and A-7.,NONE,DOC2:p6,false_premise
+21,C021,Q021,4.1,NONE,DOC2:p3,answered
+22,C022,Q022,Core CPI inflation exceeded headline CPI inflation by 1.7 percentage points in 2009.,NONE,DOC1:p27,answered
+23,C023,Q023,-0.7 - 1.1 = -1.8,NONE,DOC2:p3,answered
+24,C024,Q024,"Using Okun's law, a 1% increase in output growth would decrease the unemployment rate by approximately 0.4 percentage points. The U.S. output growth in 2012 was 2.3%, compared to the 2011 forecast of 1.8%. Therefore, the predicted decrease in unemployment is 0.92 percentage points (2.3% * 0.4). However, the actual unemployment rate in 2012 was 8.1%, compared to 9.1% in 2011, resulting in a decrease of 1.0 percentage points.",NONE,"DOC2:p2,DOC1:p35",answered
+25,C025,Q025,The U.S. unemployment rate in 2010 was approximately 9.6%.,NONE,DOC1:p24,answered
+26,C026,Q026,7.7%,NONE,DOC2:p3,answered
+27,C027,Q027,2.4%,NONE,"DOC2:p3,DOC2:p1",answered
+28,C028,Q028,India's unemployment rate in 2010 was not explicitly mentioned in the provided evidence.,NONE,DOC1:p24,answered
+29,C029,Q029,"China's economy contracted in 2009 due to the global financial crisis, but the adverse effect on demand was nearly fully offset by a major fiscal expansion by the Chinese government, including a significant increase in public investment.",NONE,"DOC1:p31,DOC1:p11",answered
+30,C030,Q030,"Lehman Brothers went bankrupt on September 15, 2008.",NONE,DOC1:p1,answered
+31,C031,Q031,11.4%,NONE,DOC2:p3,answered
+32,C032,Q032,-1.7%,NONE,"DOC2:p7,DOC1:p5",answered
+33,C032,Q033,-4.1%,NONE,"DOC2:p7,DOC1:p5",answered
+34,C032,Q034,"In 2013, spending was larger than revenues by 3.1 percentage points. Revenues were 17.5% of GDP and spending was 21.6% of GDP.",NONE,"DOC2:p7,DOC1:p6",answered
+35,C033,Q035,-1.6 percentage points,NONE,DOC2:p6,session_override
+36,C033,Q036,-0.7%,NONE,"DOC2:p3,DOC2:p1",answered
+37,C033,Q037,I cannot permanently modify the read-only knowledge base. The documents remain unchanged.,NONE,NONE,not_found
+38,C034,Q038,-0.7%,NONE,"DOC2:p1,DOC2:p3",answered
+39,C035,Q039,"China's output growth in 2014 was 7.3%, which is a decrease from 9.3% in 2011 and 7.7% in 2012.",NONE,DOC2:p3,session_override
+40,C035,Q040,No. That value was supplied by the user for this conversation and is not stated in the document evidence.,NONE,DOC2:p4,session_override
