@@ -1,0 +1,7 @@
+measurement,value
+Rater 1 final-model win rate,0.8
+Rater 2 final-model win rate,0.9
+Rater 3 final-model win rate,0.74
+Human final-model win rate,0.8133333333333335
+Number of raters,3.0
+Number of evaluated pairs,25.0
