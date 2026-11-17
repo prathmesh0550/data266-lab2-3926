@@ -1,0 +1,36 @@
+Team: Pair_Programming_Team_38
+Members: <Prathmesh Mankar> (<019142539>), <Shruti Naik> (<018333926>)
+
+# GitHub
+Repository: https://github.com/prathmesh0550/data266-lab2-3926
+p1-v1.0 commit: https://github.com/prathmesh0550/data266-lab2-3926/releases/tag/p1-v1.0 
+p2-v1.0 commit: https://github.com/prathmesh0550/data266-lab2-3926/releases/tag/p2-v1.0
+p3-v1.0 commit: https://github.com/prathmesh0550/data266-lab2-3926/releases/tag/p3-v1.0
+
+# Kaggle (Part 1)
+Kaggle team name: Pair_Programming_Team_38
+Prathmesh:
+Final notebook: https://www.kaggle.com/code/prathmesh0550/part-1-0-479
+Notebook version used for final submission: 
+Shruti(Best score):
+Final notebook: https://www.kaggle.com/code/shrutinaikkag/part1-l2/edit
+Notebook version used for final submission: <VersionId=370801409>
+
+# Hugging Face (Part 2)
+Prathmesh:
+Model, run 1 (LoRA): https://huggingface.co/Prathmesh0550/data266-part2-naruto-lora-rank4 
+Model, run 2: https://huggingface.co/Prathmesh0550/data266-part2-naruto-lora-rank16
+Generated images dataset: https://huggingface.co/datasets/Prathmesh0550/data266-part2-generated-images
+
+Shruti:
+Model, run 1 (LoRA): https://huggingface.co/Shruti2498/data266-part2-lora-rank4
+Model, run 2: https://huggingface.co/Shruti2498/data266-part2-lora-rank16
+Generated images dataset: https://huggingface.co/datasets/Shruti2498/data266-part2-pokemon-generations
+
+
+# Hugging Face (Part 3)
+Input images dataset (optional): NA
+Space (optional, bonus): NA
+
+# Recordings
+Folder with meeting recordings (optional): NA
