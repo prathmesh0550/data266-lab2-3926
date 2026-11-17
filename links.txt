@@ -29,9 +29,5 @@ Rank-16 LoRA adapter:
 
 https://huggingface.co/Shruti2498/data266-part2-lora-rank16
 
-Colab notebook link:
-
-https://colab.research.google.com/drive/174XGakwJpAixM2qyPmrPpgCl-Xmp8r1Y#scrollTo=c038
-
 
 Github Link: https://github.com/prathmesh0550/data266-lab2-3926
