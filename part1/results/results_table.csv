@@ -1,0 +1,8 @@
+,Baseline (dense only),Final (hybrid)
+Answer correctness (out of 25),9.0,14.0
+Status correct (out of 25),23.0,23.0
+Retrieval Recall@5,0.696,0.87
+Citation accuracy,0.6,0.787
+Median seconds per question,20.84,19.98
+Human eval: avg groundedness (1-5),n/a (final only),4.1
+Human eval: agreement within 1 point,n/a (final only),1.0
