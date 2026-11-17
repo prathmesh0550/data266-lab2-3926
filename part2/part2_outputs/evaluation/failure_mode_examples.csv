@@ -1,0 +1,7 @@
+failure_mode,description,prompt_id,model,image_path
+Out-of-domain style leakage,The fine-tuned model may preserve Naruto-like anime characteristics for an unrelated prompt.,P11,base,part2_outputs\generated\base\P11_seed0.png
+Out-of-domain style leakage,The fine-tuned model may preserve Naruto-like anime characteristics for an unrelated prompt.,P11,run_a,part2_outputs\generated\run_a\P11_seed0.png
+Out-of-domain style leakage,The fine-tuned model may preserve Naruto-like anime characteristics for an unrelated prompt.,P11,run_b,part2_outputs\generated\run_b\P11_seed0.png
+Compositional counting or spatial error,The fine-tuned model may generate incorrect object counts or fail to keep the requested red and blue attributes.,P16,base,part2_outputs\generated\base\P16_seed0.png
+Compositional counting or spatial error,The fine-tuned model may generate incorrect object counts or fail to keep the requested red and blue attributes.,P16,run_a,part2_outputs\generated\run_a\P16_seed0.png
+Compositional counting or spatial error,The fine-tuned model may generate incorrect object counts or fail to keep the requested red and blue attributes.,P16,run_b,part2_outputs\generated\run_b\P16_seed0.png

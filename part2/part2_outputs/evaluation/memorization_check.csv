@@ -1,0 +1,4 @@
+model,generated_count,exact_train_matches,exact_match_rate
+base,40,0,0.0
+run_a,39,0,0.0
+run_b,40,0,0.0

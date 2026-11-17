@@ -1,0 +1,7 @@
+{
+  "dataset": "lambdalabs/naruto-blip-captions",
+  "dataset_card": "https://huggingface.co/datasets/lambdalabs/naruto-blip-captions",
+  "base_model": "runwayml/stable-diffusion-v1-5",
+  "base_model_license": "CreativeML Open RAIL-M",
+  "license_verification_required": true
+}

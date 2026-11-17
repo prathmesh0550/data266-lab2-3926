@@ -1,0 +1,121 @@
+model,prompt_id,category,prompt,seed,filename,relative_path
+base,P01,in_domain,a man with a big smile on his face,0,P01_seed0.png,base/P01_seed0.png
+base,P01,in_domain,a man with a big smile on his face,1,P01_seed1.png,base/P01_seed1.png
+base,P02,in_domain,an anime character with long white hair and a black shirt,0,P02_seed0.png,base/P02_seed0.png
+base,P02,in_domain,an anime character with long white hair and a black shirt,1,P02_seed1.png,base/P02_seed1.png
+base,P03,in_domain,a man in a green jacket and hat,0,P03_seed0.png,base/P03_seed0.png
+base,P03,in_domain,a man in a green jacket and hat,1,P03_seed1.png,base/P03_seed1.png
+base,P04,in_domain,a person with red hair and a white hat,0,P04_seed0.png,base/P04_seed0.png
+base,P04,in_domain,a person with red hair and a white hat,1,P04_seed1.png,base/P04_seed1.png
+base,P05,in_domain,a man with glasses and a hoodie,0,P05_seed0.png,base/P05_seed0.png
+base,P05,in_domain,a man with glasses and a hoodie,1,P05_seed1.png,base/P05_seed1.png
+base,P06,in_domain,a man in a red shirt and hat,0,P06_seed0.png,base/P06_seed0.png
+base,P06,in_domain,a man in a red shirt and hat,1,P06_seed1.png,base/P06_seed1.png
+base,P07,in_domain,a man in a green jacket and a black hoodie,0,P07_seed0.png,base/P07_seed0.png
+base,P07,in_domain,a man in a green jacket and a black hoodie,1,P07_seed1.png,base/P07_seed1.png
+base,P08,in_domain,a girl with a cat on her head,0,P08_seed0.png,base/P08_seed0.png
+base,P08,in_domain,a girl with a cat on her head,1,P08_seed1.png,base/P08_seed1.png
+base,P09,in_domain,a man in a green shirt with a sword,0,P09_seed0.png,base/P09_seed0.png
+base,P09,in_domain,a man in a green shirt with a sword,1,P09_seed1.png,base/P09_seed1.png
+base,P10,in_domain,a person wearing a hoodie and looking at the sky,0,P10_seed0.png,base/P10_seed0.png
+base,P10,in_domain,a person wearing a hoodie and looking at the sky,1,P10_seed1.png,base/P10_seed1.png
+base,P11,out_of_domain,a realistic photograph of a golden retriever on a beach,0,P11_seed0.png,base/P11_seed0.png
+base,P11,out_of_domain,a realistic photograph of a golden retriever on a beach,1,P11_seed1.png,base/P11_seed1.png
+base,P12,out_of_domain,a watercolor painting of a European castle beside a lake,0,P12_seed0.png,base/P12_seed0.png
+base,P12,out_of_domain,a watercolor painting of a European castle beside a lake,1,P12_seed1.png,base/P12_seed1.png
+base,P13,out_of_domain,a realistic astronaut walking on Mars,0,P13_seed0.png,base/P13_seed0.png
+base,P13,out_of_domain,a realistic astronaut walking on Mars,1,P13_seed1.png,base/P13_seed1.png
+base,P14,out_of_domain,a photorealistic bowl of fruit on a wooden table,0,P14_seed0.png,base/P14_seed0.png
+base,P14,out_of_domain,a photorealistic bowl of fruit on a wooden table,1,P14_seed1.png,base/P14_seed1.png
+base,P15,out_of_domain,a cinematic photograph of a snowy mountain village,0,P15_seed0.png,base/P15_seed0.png
+base,P15,out_of_domain,a cinematic photograph of a snowy mountain village,1,P15_seed1.png,base/P15_seed1.png
+base,P16,compositional,"two ninja characters, one wearing red and one wearing blue, standing together",0,P16_seed0.png,base/P16_seed0.png
+base,P16,compositional,"two ninja characters, one wearing red and one wearing blue, standing together",1,P16_seed1.png,base/P16_seed1.png
+base,P17,compositional,three ninja characters walking through a forest during snowfall,0,P17_seed0.png,base/P17_seed0.png
+base,P17,compositional,three ninja characters walking through a forest during snowfall,1,P17_seed1.png,base/P17_seed1.png
+base,P18,compositional,a ninja character riding a giant bird above a village,0,P18_seed0.png,base/P18_seed0.png
+base,P18,compositional,a ninja character riding a giant bird above a village,1,P18_seed1.png,base/P18_seed1.png
+base,P19,compositional,two ninja characters fighting beside a red pagoda,0,P19_seed0.png,base/P19_seed0.png
+base,P19,compositional,two ninja characters fighting beside a red pagoda,1,P19_seed1.png,base/P19_seed1.png
+base,P20,compositional,a young ninja character holding a glowing blue orb under a red moon,0,P20_seed0.png,base/P20_seed0.png
+base,P20,compositional,a young ninja character holding a glowing blue orb under a red moon,1,P20_seed1.png,base/P20_seed1.png
+run_a,P01,in_domain,a man with a big smile on his face,0,P01_seed0.png,run_a/P01_seed0.png
+run_a,P01,in_domain,a man with a big smile on his face,1,P01_seed1.png,run_a/P01_seed1.png
+run_a,P02,in_domain,an anime character with long white hair and a black shirt,0,P02_seed0.png,run_a/P02_seed0.png
+run_a,P02,in_domain,an anime character with long white hair and a black shirt,1,P02_seed1.png,run_a/P02_seed1.png
+run_a,P03,in_domain,a man in a green jacket and hat,0,P03_seed0.png,run_a/P03_seed0.png
+run_a,P03,in_domain,a man in a green jacket and hat,1,P03_seed1.png,run_a/P03_seed1.png
+run_a,P04,in_domain,a person with red hair and a white hat,0,P04_seed0.png,run_a/P04_seed0.png
+run_a,P04,in_domain,a person with red hair and a white hat,1,P04_seed1.png,run_a/P04_seed1.png
+run_a,P05,in_domain,a man with glasses and a hoodie,0,P05_seed0.png,run_a/P05_seed0.png
+run_a,P05,in_domain,a man with glasses and a hoodie,1,P05_seed1.png,run_a/P05_seed1.png
+run_a,P06,in_domain,a man in a red shirt and hat,0,P06_seed0.png,run_a/P06_seed0.png
+run_a,P06,in_domain,a man in a red shirt and hat,1,P06_seed1.png,run_a/P06_seed1.png
+run_a,P07,in_domain,a man in a green jacket and a black hoodie,0,P07_seed0.png,run_a/P07_seed0.png
+run_a,P07,in_domain,a man in a green jacket and a black hoodie,1,P07_seed1.png,run_a/P07_seed1.png
+run_a,P08,in_domain,a girl with a cat on her head,0,P08_seed0.png,run_a/P08_seed0.png
+run_a,P08,in_domain,a girl with a cat on her head,1,P08_seed1.png,run_a/P08_seed1.png
+run_a,P09,in_domain,a man in a green shirt with a sword,0,P09_seed0.png,run_a/P09_seed0.png
+run_a,P09,in_domain,a man in a green shirt with a sword,1,P09_seed1.png,run_a/P09_seed1.png
+run_a,P10,in_domain,a person wearing a hoodie and looking at the sky,0,P10_seed0.png,run_a/P10_seed0.png
+run_a,P10,in_domain,a person wearing a hoodie and looking at the sky,1,P10_seed1.png,run_a/P10_seed1.png
+run_a,P11,out_of_domain,a realistic photograph of a golden retriever on a beach,0,P11_seed0.png,run_a/P11_seed0.png
+run_a,P11,out_of_domain,a realistic photograph of a golden retriever on a beach,1,P11_seed1.png,run_a/P11_seed1.png
+run_a,P12,out_of_domain,a watercolor painting of a European castle beside a lake,0,P12_seed0.png,run_a/P12_seed0.png
+run_a,P12,out_of_domain,a watercolor painting of a European castle beside a lake,1,P12_seed1.png,run_a/P12_seed1.png
+run_a,P13,out_of_domain,a realistic astronaut walking on Mars,0,P13_seed0.png,run_a/P13_seed0.png
+run_a,P13,out_of_domain,a realistic astronaut walking on Mars,1,P13_seed1.png,run_a/P13_seed1.png
+run_a,P14,out_of_domain,a photorealistic bowl of fruit on a wooden table,0,P14_seed0.png,run_a/P14_seed0.png
+run_a,P14,out_of_domain,a photorealistic bowl of fruit on a wooden table,1,P14_seed1.png,run_a/P14_seed1.png
+run_a,P15,out_of_domain,a cinematic photograph of a snowy mountain village,0,P15_seed0.png,run_a/P15_seed0.png
+run_a,P15,out_of_domain,a cinematic photograph of a snowy mountain village,1,P15_seed1.png,run_a/P15_seed1.png
+run_a,P16,compositional,"two ninja characters, one wearing red and one wearing blue, standing together",0,P16_seed0.png,run_a/P16_seed0.png
+run_a,P16,compositional,"two ninja characters, one wearing red and one wearing blue, standing together",1,P16_seed1.png,run_a/P16_seed1.png
+run_a,P17,compositional,three ninja characters walking through a forest during snowfall,0,P17_seed0.png,run_a/P17_seed0.png
+run_a,P17,compositional,three ninja characters walking through a forest during snowfall,1,P17_seed1.png,run_a/P17_seed1.png
+run_a,P18,compositional,a ninja character riding a giant bird above a village,0,P18_seed0.png,run_a/P18_seed0.png
+run_a,P18,compositional,a ninja character riding a giant bird above a village,1,P18_seed1.png,run_a/P18_seed1.png
+run_a,P19,compositional,two ninja characters fighting beside a red pagoda,0,P19_seed0.png,run_a/P19_seed0.png
+run_a,P19,compositional,two ninja characters fighting beside a red pagoda,1,P19_seed1.png,run_a/P19_seed1.png
+run_a,P20,compositional,a young ninja character holding a glowing blue orb under a red moon,0,P20_seed0.png,run_a/P20_seed0.png
+run_a,P20,compositional,a young ninja character holding a glowing blue orb under a red moon,1,P20_seed1.png,run_a/P20_seed1.png
+run_b,P01,in_domain,a man with a big smile on his face,0,P01_seed0.png,run_b/P01_seed0.png
+run_b,P01,in_domain,a man with a big smile on his face,1,P01_seed1.png,run_b/P01_seed1.png
+run_b,P02,in_domain,an anime character with long white hair and a black shirt,0,P02_seed0.png,run_b/P02_seed0.png
+run_b,P02,in_domain,an anime character with long white hair and a black shirt,1,P02_seed1.png,run_b/P02_seed1.png
+run_b,P03,in_domain,a man in a green jacket and hat,0,P03_seed0.png,run_b/P03_seed0.png
+run_b,P03,in_domain,a man in a green jacket and hat,1,P03_seed1.png,run_b/P03_seed1.png
+run_b,P04,in_domain,a person with red hair and a white hat,0,P04_seed0.png,run_b/P04_seed0.png
+run_b,P04,in_domain,a person with red hair and a white hat,1,P04_seed1.png,run_b/P04_seed1.png
+run_b,P05,in_domain,a man with glasses and a hoodie,0,P05_seed0.png,run_b/P05_seed0.png
+run_b,P05,in_domain,a man with glasses and a hoodie,1,P05_seed1.png,run_b/P05_seed1.png
+run_b,P06,in_domain,a man in a red shirt and hat,0,P06_seed0.png,run_b/P06_seed0.png
+run_b,P06,in_domain,a man in a red shirt and hat,1,P06_seed1.png,run_b/P06_seed1.png
+run_b,P07,in_domain,a man in a green jacket and a black hoodie,0,P07_seed0.png,run_b/P07_seed0.png
+run_b,P07,in_domain,a man in a green jacket and a black hoodie,1,P07_seed1.png,run_b/P07_seed1.png
+run_b,P08,in_domain,a girl with a cat on her head,0,P08_seed0.png,run_b/P08_seed0.png
+run_b,P08,in_domain,a girl with a cat on her head,1,P08_seed1.png,run_b/P08_seed1.png
+run_b,P09,in_domain,a man in a green shirt with a sword,0,P09_seed0.png,run_b/P09_seed0.png
+run_b,P09,in_domain,a man in a green shirt with a sword,1,P09_seed1.png,run_b/P09_seed1.png
+run_b,P10,in_domain,a person wearing a hoodie and looking at the sky,0,P10_seed0.png,run_b/P10_seed0.png
+run_b,P10,in_domain,a person wearing a hoodie and looking at the sky,1,P10_seed1.png,run_b/P10_seed1.png
+run_b,P11,out_of_domain,a realistic photograph of a golden retriever on a beach,0,P11_seed0.png,run_b/P11_seed0.png
+run_b,P11,out_of_domain,a realistic photograph of a golden retriever on a beach,1,P11_seed1.png,run_b/P11_seed1.png
+run_b,P12,out_of_domain,a watercolor painting of a European castle beside a lake,0,P12_seed0.png,run_b/P12_seed0.png
+run_b,P12,out_of_domain,a watercolor painting of a European castle beside a lake,1,P12_seed1.png,run_b/P12_seed1.png
+run_b,P13,out_of_domain,a realistic astronaut walking on Mars,0,P13_seed0.png,run_b/P13_seed0.png
+run_b,P13,out_of_domain,a realistic astronaut walking on Mars,1,P13_seed1.png,run_b/P13_seed1.png
+run_b,P14,out_of_domain,a photorealistic bowl of fruit on a wooden table,0,P14_seed0.png,run_b/P14_seed0.png
+run_b,P14,out_of_domain,a photorealistic bowl of fruit on a wooden table,1,P14_seed1.png,run_b/P14_seed1.png
+run_b,P15,out_of_domain,a cinematic photograph of a snowy mountain village,0,P15_seed0.png,run_b/P15_seed0.png
+run_b,P15,out_of_domain,a cinematic photograph of a snowy mountain village,1,P15_seed1.png,run_b/P15_seed1.png
+run_b,P16,compositional,"two ninja characters, one wearing red and one wearing blue, standing together",0,P16_seed0.png,run_b/P16_seed0.png
+run_b,P16,compositional,"two ninja characters, one wearing red and one wearing blue, standing together",1,P16_seed1.png,run_b/P16_seed1.png
+run_b,P17,compositional,three ninja characters walking through a forest during snowfall,0,P17_seed0.png,run_b/P17_seed0.png
+run_b,P17,compositional,three ninja characters walking through a forest during snowfall,1,P17_seed1.png,run_b/P17_seed1.png
+run_b,P18,compositional,a ninja character riding a giant bird above a village,0,P18_seed0.png,run_b/P18_seed0.png
+run_b,P18,compositional,a ninja character riding a giant bird above a village,1,P18_seed1.png,run_b/P18_seed1.png
+run_b,P19,compositional,two ninja characters fighting beside a red pagoda,0,P19_seed0.png,run_b/P19_seed0.png
+run_b,P19,compositional,two ninja characters fighting beside a red pagoda,1,P19_seed1.png,run_b/P19_seed1.png
+run_b,P20,compositional,a young ninja character holding a glowing blue orb under a red moon,0,P20_seed0.png,run_b/P20_seed0.png
+run_b,P20,compositional,a young ninja character holding a glowing blue orb under a red moon,1,P20_seed1.png,run_b/P20_seed1.png

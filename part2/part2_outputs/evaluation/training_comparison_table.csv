@@ -1,0 +1,3 @@
+model,lora_rank,trainable_parameters,learning_rate,steps,batch_size,effective_batch_size,peak_gpu_memory_gb,gpu_hours,training_time_seconds
+run_a,4,797184,0.0001,800,1,4,5.787109375,1.1729066022777745,4222.463768199988
+run_b,16,3188736,0.0001,800,1,4,5.984375,1.1698807621388874,4211.570743699995

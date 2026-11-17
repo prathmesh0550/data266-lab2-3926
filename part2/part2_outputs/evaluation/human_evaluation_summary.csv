@@ -1,0 +1,2 @@
+final_model,pairs,raters,valid_votes,expected_votes,final_model_wins,ties,final_model_win_rate,tie_rate
+run_a,25,3,75,75,18,0,0.24,0.0

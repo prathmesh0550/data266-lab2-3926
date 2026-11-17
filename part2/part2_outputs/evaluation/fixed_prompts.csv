@@ -1,0 +1,21 @@
+prompt_id,category,prompt
+P01,in_domain,a man with a big smile on his face
+P02,in_domain,an anime character with long white hair and a black shirt
+P03,in_domain,a man in a green jacket and hat
+P04,in_domain,a person with red hair and a white hat
+P05,in_domain,a man with glasses and a hoodie
+P06,in_domain,a man in a red shirt and hat
+P07,in_domain,a man in a green jacket and a black hoodie
+P08,in_domain,a girl with a cat on her head
+P09,in_domain,a man in a green shirt with a sword
+P10,in_domain,a person wearing a hoodie and looking at the sky
+P11,out_of_domain,a realistic photograph of a golden retriever on a beach
+P12,out_of_domain,a watercolor painting of a European castle beside a lake
+P13,out_of_domain,a realistic astronaut walking on Mars
+P14,out_of_domain,a photorealistic bowl of fruit on a wooden table
+P15,out_of_domain,a cinematic photograph of a snowy mountain village
+P16,compositional,"two ninja characters, one wearing red and one wearing blue, standing together"
+P17,compositional,three ninja characters walking through a forest during snowfall
+P18,compositional,a ninja character riding a giant bird above a village
+P19,compositional,two ninja characters fighting beside a red pagoda
+P20,compositional,a young ninja character holding a glowing blue orb under a red moon
