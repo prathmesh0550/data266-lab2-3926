@@ -1,0 +1,41 @@
+id,conversation_id,question_id,answer,figure_references,citations,status
+1,C001,Q001,"The global economic crisis around 2008 was sparked by the bankruptcy of Lehman Brothers on September 15, 2008.","Figure 1-1,Figure 1-2,Figure 1-4","DOC1:p2,DOC1:p3,DOC1:p5,DOC1:p6",answered
+2,C002,Q002,"Economists care about unemployment because it directly affects the welfare of the unemployed, often leading to financial and psychological suffering. High unemployment rates can also indicate overheating of the economy, as seen in the relationship between unemployment and inflation rates.","Figure 2-3,Figure 2-6","DOC1:p24,DOC1:p30,DOC1:p5",answered
+3,C003,Q003,"Economists measure economic growth without price changes messing it up by using real GDP, which reflects changes in quantities only.",Figure 2-5,"DOC1:p22,DOC1:p26,DOC1:p35",answered
+4,C004,Q004,"The world economy experienced a significant downturn during the 2009 recession, with output declining by 3.5% in 2009, marking the lowest annual growth rate since the Great Depression.","Figure 1-1,Figure 1-4","DOC1:p2,DOC1:p1,DOC1:p5",answered
+5,C005,Q005,Unemployment increased dramatically to nearly 10% in 2009.,"Figure 1-1,Figure 1-2,Figure A-3","DOC1:p5,DOC2:p3",answered
+6,C006,Q006,"China's economy grew annually at an average rate of approximately 10% from 1980 to 1999, and at an average rate of approximately 6% from 2000 to 2007.",Figure 1-1,"DOC1:p11,DOC1:Table 1-4",answered
+7,C007,Q007,"The 2008 crisis tanked stock markets everywhere, not just in the U.S.","Figure 1-1,Figure A-4","DOC1:p2,DOC2:p1,DOC2:p5,DOC1:p3",answered
+8,C008,Q008,"Yes, fast economic growth does not always mean fewer people out of work in the U.S.",Figure 2-3,"DOC1:p24,DOC3:p5",answered
+9,C009,Q009,The two prices need not be the same: The set of goods produced in the economy is not the same as the set of goods purchased by consumers.,NONE,DOC1:p26,answered
+10,C010,Q010,"Europe struggled with high unemployment rates even before the crisis, as evidenced by the data in Table 1-3 showing an average unemployment rate of 9.6% from 1980 to 1999. After the crisis, unemployment rates spiked significantly, reaching a peak of 10.1% in 2010, the highest since the 1980s.",Figure 2-3,"DOC1:p7,DOC1:p24,DOC2:Figure A-3,DOC2:Figure A-6,DOC2:Figure A-7",answered
+11,C011,Q011,"China maintained strong growth through the 2008 mess by leveraging its rapid economic transition, maintaining low unemployment, and encouraging foreign investments.","Figure 1-1,Figure 1-6,Figure B-5","DOC1:p10,DOC1:p11,DOC1:p12",answered
+12,C012,Q012,"Mortgage-backed securities played a significant role in the financial crisis by bundling and packaging mortgage loans into securities, which were then sold to other banks and investors. This complexity and opacity turned a housing price decline into a major financial crisis, as many banks ended up holding these securities rather than the underlying mortgages.","Figure 1-1,Figure 2-3","DOC1:p2,DOC1:p3,DOC1:p31",answered
+13,C013,Q013,Consumption falls when housing prices fall.,"Figure 1-1,Figure 2-4","DOC1:p1,DOC1:p27,DOC1:p26",answered
+14,C014,Q014,The documents do not provide enough information to answer this question.,NONE,NONE,not_found
+15,C015,Q015,Emerging economies grew faster before the crisis.,"Figure 1-1,Figure A-1","DOC1:p1,DOC2:p2,DOC1:p3",answered
+16,C016,Q016,The unemployment rate in the Euro area was 11.4% in 2012.,"Figure 1-2,Figure A-2","DOC2:Table A-2,DOC2:Figure A-3,DOC2:Figure A-2",answered
+17,C017,Q017,12.0%,"Figure A-7,Figure A-3","DOC2:Figure A-7,DOC2:Figure A-3",answered
+18,C018,Q018,The Euro area stock price index in March 2009 was approximately 0.68.,"Figure A-4,Figure A-5","DOC2:Figure A-4,DOC2:Figure A-5",answered
+19,C019,Q019,1.22,Figure A-5,"DOC2:p5,DOC2:Figure A-5",answered
+20,C020,Q020,The country with exactly the same unemployment rate in Figures A-6 and A-7 is Germany.,"Figure A-6,Figure A-7","DOC2:p6,DOC2:Figure A-6,DOC2:Figure A-7",answered
+21,C021,Q021,4.1%,"Figure B-5 (corrected),Figure B-5","DOC3:p6,DOC3:Figure B-5 (corrected),DOC3:Figure B-5",answered
+22,C022,Q022,-0.4%,"Figure B-3,Figure B-4","DOC3:p1,DOC3:p4,DOC3:Figure B-4",answered
+23,C023,Q023,-0.7%,Figure A-1,"DOC2:p3,DOC2:Table A-2",answered
+24,C024,Q024,"The unemployment rate would have risen more in 2012 if output growth had been 2% instead of –2%. The actual unemployment rate in 2012 was 9.0%, which is higher than the predicted 8.1% based on the fall-2011 forecast.",Figure 2-5,"DOC1:p29,DOC2:p1,DOC2:p3,DOC3:p1",answered
+25,C025,Q025,The U.S. unemployment rate in 2010 was 9.8%,NONE,"DOC1:p24,DOC3:Table B-2",answered
+26,C026,Q026,China's output growth in 2012 was 9.0%,Figure A-1,"DOC1:p11,DOC2:p3",answered
+27,C027,Q027,U.S. output growth in 2010 was 2.4%,Figure 1-4,"DOC1:p13,DOC2:p3",answered
+28,C028,Q028,The unemployment rate in India in 2010 was 9.8%,"Figure B-5 (corrected),Figure B-5","DOC3:p5,DOC3:p6",answered
+29,C029,Q029,China's economy contracted in 2009.,"Figure 1-6,Figure B-5,Figure B-5 (corrected)","DOC1:p10,DOC1:p11,DOC1:p12,DOC1:p13,DOC1:p31",answered
+30,C030,Q030,"September 15, 2008",Figure 1-1,"DOC1:p1,DOC1:p2,DOC1:Figure 1-1",answered
+31,C031,Q031,11.4%,Figure A-7,"DOC2:Table A-2,DOC2:p3",answered
+32,C032,Q032,The U.S. federal budget deficit as a share of GDP in 2007 was 1.7%,NONE,"DOC1:p6,DOC2:p7",answered
+33,C032,Q033,-4.1%,Figure 1-4,DOC2:p7,answered
+34,C032,Q034,Spending was larger than revenues by 4.1%,NONE,DOC2:p7,answered
+35,C033,Q035,The Euro area output would have fallen by 10.0% in 2009.,Figure A-6,"DOC1:p7,DOC2:p3",session_override
+36,C033,Q036,-4.2%,Figure 1-2,DOC1:p7,answered
+37,C033,Q037,I cannot change the read-only documents; any value you supply applies only to this conversation. -3.7%,Figure A-1,"DOC1:p13,DOC2:Figure A-1",session_override
+38,C034,Q038,-4.2%,Figure 1-2,"DOC1:p7,DOC2:p3",answered
+39,C035,Q039,"China's output growth in 2014 was 7.3%, which is lower than the 2013 outturn of 7.7%. This indicates a slowdown in China's economic growth compared to the previous year.",NONE,"DOC2:p3,DOC2:Table A-2",session_override
+40,C035,Q040,China's output growth in 2014 was 7.3%,NONE,"DOC2:p3,DOC1:p11",answered
