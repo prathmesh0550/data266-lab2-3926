@@ -1,0 +1,3 @@
+condition,scenario_count,success_count,success_rate,median_seconds,mean_revisions
+without_critique,15,15,1.0,1.5602127000165638,0.0
+with_critique,15,15,1.0,1.644471000006888,0.0

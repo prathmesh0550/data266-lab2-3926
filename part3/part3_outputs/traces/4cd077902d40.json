@@ -1,0 +1,43 @@
+{
+  "request_id": "4cd077902d40",
+  "user_request": "Provide a concise image caption.",
+  "image_path": null,
+  "route": "caption",
+  "safe": true,
+  "refusal_reason": "",
+  "vision": {
+    "caption": "",
+    "objects": [],
+    "visible_text": "",
+    "answers": []
+  },
+  "prompt": "",
+  "generation": {},
+  "critique": {},
+  "revision_count": 0,
+  "errors": [],
+  "trace": [
+    {
+      "agent": "planner",
+      "input": "Provide a concise image caption.",
+      "output": {
+        "route": "caption",
+        "safe": true,
+        "refusal_reason": ""
+      },
+      "elapsed_seconds": 7.700000423938036e-06
+    },
+    {
+      "agent": "vision",
+      "input": null,
+      "output": {
+        "caption": "",
+        "objects": [],
+        "visible_text": "",
+        "answers": []
+      },
+      "elapsed_seconds": 9.00006853044033e-07
+    }
+  ],
+  "final_status": "completed"
+}

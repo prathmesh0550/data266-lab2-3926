@@ -1,0 +1,53 @@
+{
+  "request_id": "8f1ca10d6097",
+  "user_request": "What objects are visible and where are they located?",
+  "image_path": "C:\\Users\\prathmesh\\AppData\\Local\\Temp\\gradio\\8da6b7e2b35c8e257a477cf4fadeb4a692e606912823484716c3edd5747acd79\\000013.png",
+  "route": "visual_question",
+  "safe": true,
+  "refusal_reason": "",
+  "vision": {
+    "caption": "black bird",
+    "objects": "what are the main objects in this image?",
+    "visible_text": "",
+    "answers": [
+      {
+        "question": "What objects are visible and where are they located?",
+        "answer": "what objects are visible and where are they located"
+      }
+    ]
+  },
+  "prompt": "",
+  "generation": {},
+  "critique": {},
+  "revision_count": 0,
+  "errors": [],
+  "trace": [
+    {
+      "agent": "planner",
+      "input": "What objects are visible and where are they located?",
+      "output": {
+        "route": "visual_question",
+        "safe": true,
+        "refusal_reason": ""
+      },
+      "elapsed_seconds": 8.530000923201442e-05
+    },
+    {
+      "agent": "vision",
+      "input": "C:\\Users\\prathmesh\\AppData\\Local\\Temp\\gradio\\8da6b7e2b35c8e257a477cf4fadeb4a692e606912823484716c3edd5747acd79\\000013.png",
+      "output": {
+        "caption": "black bird",
+        "objects": "what are the main objects in this image?",
+        "visible_text": "",
+        "answers": [
+          {
+            "question": "What objects are visible and where are they located?",
+            "answer": "what objects are visible and where are they located"
+          }
+        ]
+      },
+      "elapsed_seconds": 0.30032830001437105
+    }
+  ],
+  "final_status": "completed"
+}

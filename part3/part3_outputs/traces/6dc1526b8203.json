@@ -1,0 +1,27 @@
+{
+  "request_id": "6dc1526b8203",
+  "user_request": "Increase brightness and improve image clarity.",
+  "image_path": null,
+  "route": "ambiguous",
+  "safe": false,
+  "refusal_reason": "The request is ambiguous or unsupported. Please specify captioning, visual question answering, style change, edit, enhancement, or domain-style generation.",
+  "vision": {},
+  "prompt": "",
+  "generation": {},
+  "critique": {},
+  "revision_count": 0,
+  "errors": [],
+  "trace": [
+    {
+      "agent": "planner",
+      "input": "Increase brightness and improve image clarity.",
+      "output": {
+        "route": "ambiguous",
+        "safe": false,
+        "refusal_reason": "The request is ambiguous or unsupported. Please specify captioning, visual question answering, style change, edit, enhancement, or domain-style generation."
+      },
+      "elapsed_seconds": 1.500002690590918e-05
+    }
+  ],
+  "final_status": "refused"
+}

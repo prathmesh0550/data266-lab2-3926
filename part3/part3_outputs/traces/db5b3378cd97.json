@@ -1,0 +1,43 @@
+{
+  "request_id": "db5b3378cd97",
+  "user_request": "Provide a concise image caption.",
+  "image_path": "C:\\Users\\prathmesh\\Desktop\\LAB_2\\part2\\part2_outputs\\prepared\\test\\000002.png",
+  "route": "caption",
+  "safe": true,
+  "refusal_reason": "",
+  "vision": {
+    "caption": "naruta naruta naruta naruta naruta naruta naruta naruta naruta na",
+    "objects": "what are the main objects in this image?",
+    "visible_text": "",
+    "answers": []
+  },
+  "prompt": "",
+  "generation": {},
+  "critique": {},
+  "revision_count": 0,
+  "errors": [],
+  "trace": [
+    {
+      "agent": "planner",
+      "input": "Provide a concise image caption.",
+      "output": {
+        "route": "caption",
+        "safe": true,
+        "refusal_reason": ""
+      },
+      "elapsed_seconds": 0.00011160000576637685
+    },
+    {
+      "agent": "vision",
+      "input": "C:\\Users\\prathmesh\\Desktop\\LAB_2\\part2\\part2_outputs\\prepared\\test\\000002.png",
+      "output": {
+        "caption": "naruta naruta naruta naruta naruta naruta naruta naruta naruta na",
+        "objects": "what are the main objects in this image?",
+        "visible_text": "",
+        "answers": []
+      },
+      "elapsed_seconds": 0.4794162000180222
+    }
+  ],
+  "final_status": "completed"
+}

@@ -1,0 +1,27 @@
+{
+  "request_id": "04a30262ef54",
+  "user_request": "",
+  "image_path": "C:\\Users\\prathmesh\\AppData\\Local\\Temp\\gradio\\c5aee1b6b3c70fecdbc5f46ae09819cb53d1fa682cbe1f0883df4913f804d7bd\\000108.png",
+  "route": "ambiguous",
+  "safe": false,
+  "refusal_reason": "The request is ambiguous or unsupported. Please specify captioning, visual question answering, style change, edit, enhancement, or domain-style generation.",
+  "vision": {},
+  "prompt": "",
+  "generation": {},
+  "critique": {},
+  "revision_count": 0,
+  "errors": [],
+  "trace": [
+    {
+      "agent": "planner",
+      "input": "",
+      "output": {
+        "route": "ambiguous",
+        "safe": false,
+        "refusal_reason": "The request is ambiguous or unsupported. Please specify captioning, visual question answering, style change, edit, enhancement, or domain-style generation."
+      },
+      "elapsed_seconds": 8.860000525601208e-05
+    }
+  ],
+  "final_status": "refused"
+}

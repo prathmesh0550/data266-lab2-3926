@@ -1,0 +1,64 @@
+{
+  "request_id": "a3320696e84d",
+  "user_request": "Generate an anime ninja training scene under a red moon.",
+  "image_path": null,
+  "route": "domain_style_generation",
+  "safe": true,
+  "refusal_reason": "",
+  "vision": {},
+  "prompt": "Narrative anime illustration in the Naruto domain style: Generate an anime ninja training scene under a red moon.. High quality, detailed composition, clean character anatomy.",
+  "generation": {
+    "path": "part3_outputs\\generated\\a3320696e84d_revision0.png",
+    "model": "Prathmesh0550/data266-part2-naruto-lora-rank16",
+    "base_model": "runwayml/stable-diffusion-v1-5",
+    "mode": "text-to-image",
+    "prompt": "Narrative anime illustration in the Naruto domain style: Generate an anime ninja training scene under a red moon.. High quality, detailed composition, clean character anatomy.",
+    "seed": 2554,
+    "steps": 30
+  },
+  "critique": {
+    "decision": "not_run",
+    "safe": true
+  },
+  "revision_count": 0,
+  "errors": [],
+  "trace": [
+    {
+      "agent": "planner",
+      "input": "Generate an anime ninja training scene under a red moon.",
+      "output": {
+        "route": "domain_style_generation",
+        "safe": true,
+        "refusal_reason": ""
+      },
+      "elapsed_seconds": 1.3400014722719789e-05
+    },
+    {
+      "agent": "prompt_engineering",
+      "input": {
+        "request": "Generate an anime ninja training scene under a red moon.",
+        "vision": {},
+        "revision": ""
+      },
+      "output": {
+        "prompt": "Narrative anime illustration in the Naruto domain style: Generate an anime ninja training scene under a red moon.. High quality, detailed composition, clean character anatomy."
+      },
+      "elapsed_seconds": 2.00001522898674e-06
+    },
+    {
+      "agent": "generation",
+      "input": "Narrative anime illustration in the Naruto domain style: Generate an anime ninja training scene under a red moon.. High quality, detailed composition, clean character anatomy.",
+      "output": {
+        "path": "part3_outputs\\generated\\a3320696e84d_revision0.png",
+        "model": "Prathmesh0550/data266-part2-naruto-lora-rank16",
+        "base_model": "runwayml/stable-diffusion-v1-5",
+        "mode": "text-to-image",
+        "prompt": "Narrative anime illustration in the Naruto domain style: Generate an anime ninja training scene under a red moon.. High quality, detailed composition, clean character anatomy.",
+        "seed": 2554,
+        "steps": 30
+      },
+      "elapsed_seconds": 2.0519216999819037
+    }
+  ],
+  "final_status": "completed"
+}

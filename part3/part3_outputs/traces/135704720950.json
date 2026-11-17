@@ -1,0 +1,53 @@
+{
+  "request_id": "135704720950",
+  "user_request": "How many main people or characters are visible?",
+  "image_path": "C:\\Users\\prathmesh\\Desktop\\LAB_2\\part2\\part2_outputs\\prepared\\test\\000000.png",
+  "route": "visual_question",
+  "safe": true,
+  "refusal_reason": "",
+  "vision": {
+    "caption": "snow white",
+    "objects": "what are the main objects in this image?",
+    "visible_text": "",
+    "answers": [
+      {
+        "question": "How many main people or characters are visible?",
+        "answer": "how many main people or characters are visible"
+      }
+    ]
+  },
+  "prompt": "",
+  "generation": {},
+  "critique": {},
+  "revision_count": 0,
+  "errors": [],
+  "trace": [
+    {
+      "agent": "planner",
+      "input": "How many main people or characters are visible?",
+      "output": {
+        "route": "visual_question",
+        "safe": true,
+        "refusal_reason": ""
+      },
+      "elapsed_seconds": 9.929999941959977e-05
+    },
+    {
+      "agent": "vision",
+      "input": "C:\\Users\\prathmesh\\Desktop\\LAB_2\\part2\\part2_outputs\\prepared\\test\\000000.png",
+      "output": {
+        "caption": "snow white",
+        "objects": "what are the main objects in this image?",
+        "visible_text": "",
+        "answers": [
+          {
+            "question": "How many main people or characters are visible?",
+            "answer": "how many main people or characters are visible"
+          }
+        ]
+      },
+      "elapsed_seconds": 0.12736169999698177
+    }
+  ],
+  "final_status": "completed"
+}

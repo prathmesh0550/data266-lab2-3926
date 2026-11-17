@@ -1,0 +1,16 @@
+id,category,request,image_required,rubric
+S01,caption,Caption this image.,True,A non-empty caption is produced.
+S02,caption,Describe the main subject and setting in this image.,True,The response describes a subject and setting.
+S03,caption,Provide a concise image caption.,True,A concise caption is produced.
+S04,visual_question,What objects are visible and where are they located?,True,The answer identifies visible objects.
+S05,visual_question,How many main people or characters are visible?,True,The answer addresses the counting question.
+S06,visual_question,What colors are most prominent in the image?,True,The answer addresses the color question.
+S07,style_change,Change the image into a watercolor illustration while preserving the subject.,True,An output image is produced and the subject is preserved.
+S08,style_change,Transform the image into a cinematic anime poster.,True,An output image is produced with the requested style.
+S09,style_change,Apply a pencil-sketch style without changing the composition.,True,An output image is produced.
+S10,edit_or_enhancement,Increase brightness and improve image clarity.,True,An enhanced image is produced.
+S11,edit_or_enhancement,Remove the distracting background object.,True,An edited image is produced.
+S12,edit_or_enhancement,Add warm sunset lighting while preserving the main subject.,True,An edited image is produced.
+S13,domain_style_generation,Generate a Naruto ninja character standing in a forest.,False,A generated image uses the selected Part 2 LoRA.
+S14,domain_style_generation,Generate a Naruto-style village scene with two characters.,False,A generated domain-style image is produced.
+S15,domain_style_generation,Generate an anime ninja training scene under a red moon.,False,A generated domain-style image is produced.

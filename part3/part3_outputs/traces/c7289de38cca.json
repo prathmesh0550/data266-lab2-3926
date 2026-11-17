@@ -1,0 +1,53 @@
+{
+  "request_id": "c7289de38cca",
+  "user_request": "What objects are visible and where are they located?",
+  "image_path": "C:\\Users\\prathmesh\\Desktop\\LAB_2\\part2\\part2_outputs\\prepared\\test\\000003.png",
+  "route": "visual_question",
+  "safe": true,
+  "refusal_reason": "",
+  "vision": {
+    "caption": "naro naro naro naro naro naro naro naro naro naro naro naro naro naro naro naro naro naro naro naro naro naro naro naro naro",
+    "objects": "what are the main objects in this image?",
+    "visible_text": "",
+    "answers": [
+      {
+        "question": "What objects are visible and where are they located?",
+        "answer": "what objects are visible and where are they located"
+      }
+    ]
+  },
+  "prompt": "",
+  "generation": {},
+  "critique": {},
+  "revision_count": 0,
+  "errors": [],
+  "trace": [
+    {
+      "agent": "planner",
+      "input": "What objects are visible and where are they located?",
+      "output": {
+        "route": "visual_question",
+        "safe": true,
+        "refusal_reason": ""
+      },
+      "elapsed_seconds": 0.00010299999848939478
+    },
+    {
+      "agent": "vision",
+      "input": "C:\\Users\\prathmesh\\Desktop\\LAB_2\\part2\\part2_outputs\\prepared\\test\\000003.png",
+      "output": {
+        "caption": "naro naro naro naro naro naro naro naro naro naro naro naro naro naro naro naro naro naro naro naro naro naro naro naro naro",
+        "objects": "what are the main objects in this image?",
+        "visible_text": "",
+        "answers": [
+          {
+            "question": "What objects are visible and where are they located?",
+            "answer": "what objects are visible and where are they located"
+          }
+        ]
+      },
+      "elapsed_seconds": 0.7118899000051897
+    }
+  ],
+  "final_status": "completed"
+}

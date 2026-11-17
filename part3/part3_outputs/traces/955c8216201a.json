@@ -1,0 +1,64 @@
+{
+  "request_id": "955c8216201a",
+  "user_request": "Generate a Naruto ninja character standing in a forest.",
+  "image_path": null,
+  "route": "domain_style_generation",
+  "safe": true,
+  "refusal_reason": "",
+  "vision": {},
+  "prompt": "Narrative anime illustration in the Naruto domain style: Generate a Naruto ninja character standing in a forest.. High quality, detailed composition, clean character anatomy.",
+  "generation": {
+    "path": "part3_outputs\\generated\\955c8216201a_revision0.png",
+    "model": "Prathmesh0550/data266-part2-naruto-lora-rank16",
+    "base_model": "runwayml/stable-diffusion-v1-5",
+    "mode": "text-to-image",
+    "prompt": "Narrative anime illustration in the Naruto domain style: Generate a Naruto ninja character standing in a forest.. High quality, detailed composition, clean character anatomy.",
+    "seed": 2552,
+    "steps": 30
+  },
+  "critique": {
+    "decision": "not_run",
+    "safe": true
+  },
+  "revision_count": 0,
+  "errors": [],
+  "trace": [
+    {
+      "agent": "planner",
+      "input": "Generate a Naruto ninja character standing in a forest.",
+      "output": {
+        "route": "domain_style_generation",
+        "safe": true,
+        "refusal_reason": ""
+      },
+      "elapsed_seconds": 1.2400007108226418e-05
+    },
+    {
+      "agent": "prompt_engineering",
+      "input": {
+        "request": "Generate a Naruto ninja character standing in a forest.",
+        "vision": {},
+        "revision": ""
+      },
+      "output": {
+        "prompt": "Narrative anime illustration in the Naruto domain style: Generate a Naruto ninja character standing in a forest.. High quality, detailed composition, clean character anatomy."
+      },
+      "elapsed_seconds": 1.7999846022576094e-06
+    },
+    {
+      "agent": "generation",
+      "input": "Narrative anime illustration in the Naruto domain style: Generate a Naruto ninja character standing in a forest.. High quality, detailed composition, clean character anatomy.",
+      "output": {
+        "path": "part3_outputs\\generated\\955c8216201a_revision0.png",
+        "model": "Prathmesh0550/data266-part2-naruto-lora-rank16",
+        "base_model": "runwayml/stable-diffusion-v1-5",
+        "mode": "text-to-image",
+        "prompt": "Narrative anime illustration in the Naruto domain style: Generate a Naruto ninja character standing in a forest.. High quality, detailed composition, clean character anatomy.",
+        "seed": 2552,
+        "steps": 30
+      },
+      "elapsed_seconds": 1.9036534999904688
+    }
+  ],
+  "final_status": "completed"
+}

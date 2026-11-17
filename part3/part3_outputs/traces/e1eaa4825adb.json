@@ -1,0 +1,53 @@
+{
+  "request_id": "e1eaa4825adb",
+  "user_request": "What objects are visible and where are they located?",
+  "image_path": "C:\\Users\\prathmesh\\Desktop\\LAB_2\\part2\\part2_outputs\\prepared\\test\\000000.png",
+  "route": "visual_question",
+  "safe": true,
+  "refusal_reason": "",
+  "vision": {
+    "caption": "snow white",
+    "objects": "what are the main objects in this image?",
+    "visible_text": "",
+    "answers": [
+      {
+        "question": "What objects are visible and where are they located?",
+        "answer": "what objects are visible and where are they located"
+      }
+    ]
+  },
+  "prompt": "",
+  "generation": {},
+  "critique": {},
+  "revision_count": 0,
+  "errors": [],
+  "trace": [
+    {
+      "agent": "planner",
+      "input": "What objects are visible and where are they located?",
+      "output": {
+        "route": "visual_question",
+        "safe": true,
+        "refusal_reason": ""
+      },
+      "elapsed_seconds": 0.0001438999897800386
+    },
+    {
+      "agent": "vision",
+      "input": "C:\\Users\\prathmesh\\Desktop\\LAB_2\\part2\\part2_outputs\\prepared\\test\\000000.png",
+      "output": {
+        "caption": "snow white",
+        "objects": "what are the main objects in this image?",
+        "visible_text": "",
+        "answers": [
+          {
+            "question": "What objects are visible and where are they located?",
+            "answer": "what objects are visible and where are they located"
+          }
+        ]
+      },
+      "elapsed_seconds": 0.1228508000203874
+    }
+  ],
+  "final_status": "completed"
+}

@@ -1,0 +1,43 @@
+{
+  "request_id": "c67b4e381cf6",
+  "user_request": "Caption this image.",
+  "image_path": null,
+  "route": "caption",
+  "safe": true,
+  "refusal_reason": "",
+  "vision": {
+    "caption": "",
+    "objects": [],
+    "visible_text": "",
+    "answers": []
+  },
+  "prompt": "",
+  "generation": {},
+  "critique": {},
+  "revision_count": 0,
+  "errors": [],
+  "trace": [
+    {
+      "agent": "planner",
+      "input": "Caption this image.",
+      "output": {
+        "route": "caption",
+        "safe": true,
+        "refusal_reason": ""
+      },
+      "elapsed_seconds": 6.699992809444666e-06
+    },
+    {
+      "agent": "vision",
+      "input": null,
+      "output": {
+        "caption": "",
+        "objects": [],
+        "visible_text": "",
+        "answers": []
+      },
+      "elapsed_seconds": 1.300009898841381e-06
+    }
+  ],
+  "final_status": "completed"
+}
