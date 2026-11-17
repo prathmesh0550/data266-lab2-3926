@@ -1,0 +1,34 @@
+Prathmesh:
+
+Hugging Face links Generated image dataset:
+
+https://huggingface.co/datasets/Prathmesh0550/data266-part2-generated-images
+
+Rank-4 LoRA adapter:
+
+https://huggingface.co/Prathmesh0550/data266-part2-naruto-lora-rank4 
+
+Rank-16 LoRA adapter:
+
+https://huggingface.co/Prathmesh0550/data266-part2-naruto-lora-rank16
+
+
+
+
+Shruti:
+
+Hugging Face links Generated image dataset:
+
+https://huggingface.co/datasets/Shruti2498/data266-part2-pokemon-generations
+
+Rank-4 LoRA adapter:
+
+https://huggingface.co/Shruti2498/data266-part2-lora-rank4
+
+Rank-16 LoRA adapter:
+
+https://huggingface.co/Shruti2498/data266-part2-lora-rank16
+
+
+
+Github Link: https://github.com/prathmesh0550/data266-lab2-3926
